@@ -1,3 +1,14 @@
+<div align="center">
+
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Versão](https://img.shields.io/badge/version-1.0.0-blue)
+![Node.js](https://img.shields.io/badge/node-%3E=18.x-brightgreen)
+[![Autor](https://img.shields.io/badge/autor-dev--eduard-blue)](https://github.com/dev-eduard)
+
+</div>
+
+---
+
 # API RESTful com JWT
 
 Este projeto é uma API RESTful em Node.js usando MongoDB, com autenticação JWT para proteger as rotas de usuário.
