@@ -1,0 +1,28 @@
+{
+  "name": "api-mongo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "dev-eduard",
+  "description": "Um template de API com MongoDB, Express, JWT e bcrypt",
+  "keywords": [
+    "api",
+    "mongodb",
+    "express",
+    "jwt",
+    "bcrypt"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0",
+    "nodemon": "^3.1.10"
+  }
+}
